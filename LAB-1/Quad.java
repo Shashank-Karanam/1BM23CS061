@@ -25,7 +25,7 @@ public class Quad
     {
 			System.out.println("No real roots");
     }
-		System.out.println("B VATSAL");
+		System.out.println("B VATSAL SHITTY");
 		System.out.println("1BM23CS061");
 	}
 }
